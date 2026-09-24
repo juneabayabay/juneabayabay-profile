@@ -6,11 +6,7 @@
 
 <p align="center">Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself.</p>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center">🔗 Links & Stats</h2>
 
