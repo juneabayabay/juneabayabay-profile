@@ -6,17 +6,6 @@ I am passionate about technology and aspire to build a career in the software en
 Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself. 
 
 
-
-You’ll get smarter responses and can upload files, images, and more.
-
-Log in
-Sign up for free
-No file chosenNo file chosenNo file chosen
-
-Chat with ChatGPT
-
----
-
 <h2 align="center">🔗 Links & Stats</h2>
 
 <p align="center">
