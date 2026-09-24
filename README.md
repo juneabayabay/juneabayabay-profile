@@ -9,12 +9,6 @@ Outside of technology, I enjoy reading books, journaling every day to reflect on
 <h2 align="center">🔗 Links & Stats</h2>
 
 <p align="center">
-  <a href="https://your-portfolio-url">
-    <img src="logo.png" width="120" alt="Arjune Abayabay portfolio" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=juneabayabay&color=007ec6&style=flat-square" alt="Profile Views">
   <a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website"></a>
 </p>
