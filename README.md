@@ -1,11 +1,16 @@
-About Me
+<h2 align="center">About Me</h2>
 
-Hi! My name is Arjune Abay Abay, and I am a Bachelor of Science in Information Technology (BSIT) graduate from STI College Ortigas-Cainta.
+<p align="center">Hi! My name is Arjune Abay Abay, and I am a Bachelor of Science in Information Technology (BSIT) graduate from STI College Ortigas-Cainta.</p>
 
-I am passionate about technology and aspire to build a career in the software engineering industry. I enjoy learning new technologies, improving my programming skills, and exploring different areas of software development.
+<p align="center">I am passionate about technology and aspire to build a career in the software engineering industry. I enjoy learning new technologies, improving my programming skills, and exploring different areas of software development.</p>
 
-Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself. 
+<p align="center">Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself.</p>
 
+<br>
+
+---
+
+<br>
 
 <h2 align="center">🔗 Links & Stats</h2>
 
