@@ -1,16 +1,23 @@
-<h1 align="center">Welcome to my GitHub page! 👋</h1>
+About Me
+Hi! My name is Arjune Abay Abay, and I am a Bachelor of Science in Information Technology (BSIT) graduate from STI College Ortigas-Cainta.
 
-<h2 align="center">💡 About Me</h2>
+I am passionate about technology and aspire to build a career in the software engineering industry. I enjoy learning new technologies, improving my programming skills, and exploring different areas of software development.
 
-- 👋 Hi there! I'm **Arjune Abayabay**, a **Bachelor of Science in Information Technology** graduate from **STI College Ortigas-Cainta**. My ambition is to work in the **software engineering** industry.
-- 💻 The languages I use are `Python`, `Java`, `C#`, `JavaScript`, and `TypeScript`. My **preferred OS** for development is `Windows`.
-- 📚 I like **reading books**, and I write in a **journal every day** to reflect on my day.
-- 🎵 I also enjoy **playing an instrument**.
-- ⏰ I **value my time**, so I keep a **daily routine** so each day has a clear direction.
+Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself. 
 
----
 
 <h2 align="center">🔗 Links & Stats</h2>
+
+<p align="center">
+  <a href="https://your-portfolio-url">
+    <img src="logo.png" width="120" alt="Arjune Abayabay portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juneabayabay&color=007ec6&style=flat-square" alt="Profile Views">
+  <a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website"></a>
+</p>
 
 <div align="center">
   <img width="249" src="https://github-stats-extended.vercel.app/api/top-langs?username=juneabayabay&layout=compact&theme=merko&langs_count=8" alt="Most Used Languages" />
