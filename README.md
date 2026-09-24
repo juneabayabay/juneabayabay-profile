@@ -13,8 +13,8 @@ Outside of technology, I enjoy reading books, journaling every day to reflect on
 </p>
 
 <div align="center">
-  <img width="249" src="https://github-stats-extended.vercel.app/api/top-langs?username=juneabayabay&layout=compact&theme=merko&langs_count=8" alt="Most Used Languages" />
-  <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=juneabayabay&theme=merko" alt="Total contributions, current streak, and longest streak" />
+  <img width="300" height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=juneabayabay&layout=compact&langs_count=8&bg_color=120E09&title_color=F0C14D&text_color=F6E7C1&border_color=C9A227" alt="Most Used Languages" />
+  <img width="419" height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=juneabayabay&background=120E09&border=C9A227&stroke=C9A227&ring=F0C14D&fire=F0C14D&currStreakNum=F6D36B&sideNums=F6D36B&currStreakLabel=F0C14D&sideLabels=E6D3A1&dates=C4A574" alt="Total contributions, current streak, and longest streak" />
 </div>
 
 ---
