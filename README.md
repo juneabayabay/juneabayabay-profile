@@ -36,5 +36,5 @@ Outside of technology, I enjoy reading books, journaling every day to reflect on
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nodejs,npm,androidstudio,postman,figma,render,netlify,vercel,vscode,visualstudio,windows&theme=dark&perline=13" alt="Git, GitHub, Node.js, npm, Android Studio, Postman, Figma, Render, Netlify, Vercel, Visual Studio Code, Visual Studio, Windows" />
 </p>
-<p align="center">Aiven</p>
+
 
