@@ -1,13 +1,19 @@
-<h1 align="center">Welcome to my GitHub page! 👋</h1>
+About Me
+Hi! My name is Arjune Abay Abay, and I am a Bachelor of Science in Information Technology (BSIT) graduate from STI College Ortigas-Cainta.
 
-<h2 align="center">💡 About Me</h2>
+I am passionate about technology and aspire to build a career in the software engineering industry. I enjoy learning new technologies, improving my programming skills, and exploring different areas of software development.
 
-- 👋 Hi there! I'm **Arjune Abayabay**, a **Bachelor of Science in Information Technology** graduate from **STI College Ortigas-Cainta**. My ambition is to work in the **software engineering** industry.
-- 💻 The languages I use are `Python`, `Java`, `C#`, `JavaScript`, and `TypeScript`. My **preferred OS** for development is `Windows`.
-- 📚 I like **reading books**, and I write in a **journal every day** to reflect on my day.
-- 🎵 I also enjoy **playing an instrument**.
-- ⏰ I **value my time**, so I keep a **daily routine** so each day has a clear direction.
-- 🚀 See my work on my [personal website](https://your-portfolio-url).
+Outside of technology, I enjoy reading books, journaling every day to reflect on my experiences and personal growth, and playing musical instruments. These hobbies help me stay curious, creative, and motivated to continuously improve myself. 
+
+
+
+You’ll get smarter responses and can upload files, images, and more.
+
+Log in
+Sign up for free
+No file chosenNo file chosenNo file chosen
+
+Chat with ChatGPT
 
 ---
 
