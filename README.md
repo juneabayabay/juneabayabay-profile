@@ -11,7 +11,7 @@
 <h2 align="center">🔗 Links & Stats</h2>
 
 <p align="center">
-  <a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website"></a>
+  <a href="https://arjune.vercel.app/"><img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website"></a>
 </p>
 
 <div align="center">
